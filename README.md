@@ -1,4 +1,7 @@
-This is my zomato landing page clone
+## sever creation >> npm init
+## running server >> node server.js
+## >> npm start
+## >>npm run yourscriptname
+## >> npm run dev
 
-Done with first commit
-Updated on git side
+## >>npm>>node package manager

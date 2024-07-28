@@ -1,0 +1,24 @@
+{
+  "name": "luciwithherproject",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "rohan": "node server. js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciuss2/LuciWithHerProject.git"
+  },
+  "author": "sakshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciuss2/LuciWithHerProject/issues"
+  },
+  "homepage": "https://github.com/Luciuss2/LuciWithHerProject#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
